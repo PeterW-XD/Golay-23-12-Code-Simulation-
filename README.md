@@ -1,4 +1,4 @@
-# Golay-23-12-Code-Simulation
+# (23,12)Golay Correction Code in BPSK with hard-decision decoding and soft-decision decoding with MATLAB 
 
 ## 中文  
 这是一项课程大作业，探究（23,12）Golay码的性能，使用MATLAB编写。注释语言为中文。  
